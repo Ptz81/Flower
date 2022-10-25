@@ -1,0 +1,12 @@
+header, footer {
+    background-color: #a9bfe4;
+    padding: 20px;
+    /*display: flex;
+    justify-content: space-between; */
+}
+.logo{
+    width:136px;
+}
+header ul{
+    list-style: none;
+}
